@@ -1,12 +1,12 @@
-.btn-blue {
-  background-color: #01aba3;
+.btn-yellow {
+  background-color: #e4aa40;
   padding: 15px 20px;
   border-radius: 4px;
   color: white;
   font-weight: bold;
   font-family: "Roboto", sans-serif;
 }
-.btn-blue:hover {
-  background-color: #00837c;
+.btn-yellow:hover {
+  background-color: #bb821b;
   color: white;
 }
